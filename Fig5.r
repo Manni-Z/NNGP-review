@@ -1,4 +1,8 @@
-
+"""
+Priors over functions drawn from networks with Tanh function, width = 10000 and omega_a = omega_u = omega_b = omega_v = 1. 
+Left plots: eta = 1.3
+Right plots: eta = 1.7
+"""
 
 # generate inputs
 x <- seq(-6, 6, 0.01)
