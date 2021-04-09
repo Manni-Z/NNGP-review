@@ -13,4 +13,4 @@ You can find their code at
 
 https://github.com/brain-research/nngp
   
-If anyone wants to run the code and get the data for Fig. 7 and Fig. 10 himself, additional to their codes, the .py listed will help do the work. 
+If anyone wants to run the code and get the data for Fig. 7 and Fig. 10 himself, additional to Lee et al. (2018) codes, the .py listed will help do the work. 
