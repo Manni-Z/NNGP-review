@@ -6,7 +6,7 @@ The data of Fig. 7 and Fig. 10 are generated using the method proposed by
 
 <i>
 Lee, J., Bahri, Y., Novak, R., Schoenholz, S., Pennington, J., Sohl-Dickstein, J. (2018). Deep Neural Networks as Gaussian Processes. ArXiv, abs/1711.00165.
-</i>
+</i><br>
 
 
 You can find their code at
