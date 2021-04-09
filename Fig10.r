@@ -1,6 +1,7 @@
-###
-csv file for tanh and relu are named tanh_ac.csv and relu_ac.csv listed
-###
+"""
+sigma_w and sigma_b space. 
+csv file for tanh and relu are named tanh_ac.csv and relu_ac.csv
+"""
 
 library(readxl)
 library(magrittr)
