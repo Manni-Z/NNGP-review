@@ -1,5 +1,5 @@
 ###
-csv file for tanh and relu are named tanh.csv and relu.csv listed
+csv file for tanh and relu are named tanh_ac.csv and relu_ac.csv listed
 ###
 
 library(readxl)
