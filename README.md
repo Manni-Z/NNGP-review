@@ -2,15 +2,12 @@
 
 Fig. 2 through Fig. 6 use R to do the simulation and plot. The detailed explanations and parameters are in the comments sesstion with the .r documents. 
 
-The data of Fig. 7 and Fig. 10 are generated from the code of 
+The data of Fig. 7 and Fig. 10 are generated using the method proposed by 
 
-@article{
-    lee2018deep,
-    title={Deep Neural Networks as Gaussian Processes},
-    author={Jaehoon Lee, Yasaman Bahri, Roman Novak, Sam Schoenholz, Jeffrey Pennington, Jascha Sohl-dickstein},
-    journal={International Conference on Learning Representations},
-    year={2018},
-    url={https://openreview.net/forum?id=B1EA-M-0Z},
-  }
+Lee, J., Bahri, Y., Novak, R., Schoenholz, S., Pennington, J., Sohl-Dickstein, J. (2018). Deep Neural Networks as Gaussian Processes. ArXiv, abs/1711.00165.
+
+You can find there code at
+
+https://github.com/brain-research/nngp
   
-If anyone wants to run the code himself, the .py will do the work. 
+If anyone wants to run the code and get the data for Fig. 7 and Fig. 10 himself, additional to their codes, the .py listed will help do the work. 
