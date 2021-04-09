@@ -1,3 +1,5 @@
+
+
 # generate inputs
 x <- seq(-6, 6, 0.01)
 ## left, for the right graphs just change the seed and eta
@@ -53,6 +55,7 @@ df11 <- data.frame(matrix(c(as.numeric(x), as.numeric(f_k11)), byrow = F, ncol =
 names(df11) <- c('x', 'Prior_over_function')
 df12 <- data.frame(matrix(c(as.numeric(x), as.numeric(f_k12)), byrow = F, ncol = 2))
 names(df12) <- c('x', 'Prior_over_function')
+# plot
 p1 <- ggplot() +
   geom_line(df11, mapping = aes(x=x, y=Prior_over_function)) +
   geom_line(df12, mapping = aes(x=x, y=Prior_over_function), color = 'indianred1')
