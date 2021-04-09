@@ -1,3 +1,9 @@
+"""
+Priors over functions drawn from networks with step function and sigma_u = sigma_a = sigma_b = omega_v = 1. 
+Left plots: width = 300 
+Right plots: width = 10000
+"""
+
 # generate inputs
 x <- seq(-6, 6, 0.01)
 ## left plots, change seed and width to get the right ones
