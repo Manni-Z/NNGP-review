@@ -1,3 +1,7 @@
+###
+csv file for tanh and relu are named tanh.csv and relu.csv listed
+###
+
 library(readxl)
 library(magrittr)
 library(dplyr)
