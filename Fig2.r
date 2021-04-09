@@ -1,4 +1,4 @@
-### simulation of GP 
+### simulation of GP with specified kernels
 
 ## kernel function
 k <- function(x, x_prime, type = c('se', 'brownian', 'laplace')){
@@ -14,8 +14,9 @@ k <- function(x, x_prime, type = c('se', 'brownian', 'laplace')){
 x <- seq(0, 1, 0.005)
 n <- length(x)
 
-## construct kernel
+## kernel type
 t <- c('se', 'brownian', 'laplace')
+
 # squared exponential kernel
 c1 <- matrix(rep(0,n*n), nrow = n)
 for (i in 1:n) {
@@ -31,7 +32,7 @@ for (i in 1:n) {
   }
 }
 
-# sample
+## sample
 # squared exponential kernel
 set.seed(3)
 u <- rnorm(n)
