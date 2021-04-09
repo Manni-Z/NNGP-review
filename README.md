@@ -2,7 +2,7 @@
 
 Fig. 2 through Fig. 6 use R to do the simulation and plot. The detailed explanations and parameters are in the comments sesstion with the .r documents. 
 
-The data of Fig. 7 and Fig. 10 are generated using the method proposed by 
+The data of Fig. 8 and Fig. 11 are generated using the method proposed by 
 
 <p><i>
 Lee, J., Bahri, Y., Novak, R., Schoenholz, S., Pennington, J., Sohl-Dickstein, J. (2018). Deep Neural Networks as Gaussian Processes. ArXiv, abs/1711.00165.
