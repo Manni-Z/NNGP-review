@@ -4,7 +4,9 @@ Fig. 2 through Fig. 6 use R to do the simulation and plot. The detailed explanat
 
 The data of Fig. 7 and Fig. 10 are generated using the method proposed by 
 
+<i>
 Lee, J., Bahri, Y., Novak, R., Schoenholz, S., Pennington, J., Sohl-Dickstein, J. (2018). Deep Neural Networks as Gaussian Processes. ArXiv, abs/1711.00165.
+</i>
 
 You can find there code at
 
