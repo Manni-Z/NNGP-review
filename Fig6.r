@@ -6,7 +6,7 @@ Right plots: width = 10000
 
 # generate inputs
 x <- seq(-6, 6, 0.01)
-## left
+## left plots, change seed to get the right ones
 # generate weights and biases
 set.seed(19)   # right:299
 n <- 150
