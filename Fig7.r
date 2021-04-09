@@ -1,3 +1,7 @@
+"""
+NNGP using tanh and relu. 
+"""
+
 library(ggplot2)
 
 x <- log(c(100, 300, 500, 700, 1000, 3000, 5000, 7000))
@@ -52,6 +56,3 @@ p_mse <- g_mse +
   labs(color="Nonlinearity") +
   theme(legend.position = c(0.85,0.87))
 p_mse
-
-#scale_x_continuous(trans='log2') +
-#coord_trans(x="log10") +
